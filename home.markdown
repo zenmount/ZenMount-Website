@@ -6,6 +6,6 @@ layout: home
 
 ![ZenMount_Sideways_Black_Transparent_2.png](/uploads/ZenMount_Sideways_Black_Transparent_2.png)
 
-## Test Header 2
+## Test Template
 
 This is my home page.
